@@ -51,6 +51,6 @@ done
 ```
 
 > requirement : apt install ossp-uuid jq curl tree
-
+> work on termux
 
 <p align="center">berhasil di termux</p>
